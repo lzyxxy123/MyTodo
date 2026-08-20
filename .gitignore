@@ -13,3 +13,5 @@ temp/
 
 # 编辑器配置
 .vscode/
+*.log
+!important.log
